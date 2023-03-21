@@ -1,2 +1,2 @@
-# Wedding-Planner
-App that plans wedding 
+# WP
+Plan a Wedding 
